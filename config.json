@@ -1,0 +1,7 @@
+{
+  "port": "10000",
+  "prefix": "/KaNCER/",
+  "title": "SOLAR",
+  "icon":"/public/assets/pngegg.png",
+  "blockedHosts": [{"url": "discord.com"}]
+}
